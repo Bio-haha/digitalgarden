@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/sensegarden-sprout/sensegarden-sprout/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/sensegarden-sprout/sensegarden-sprout/","dg-note-properties":{}}
 ---
 
 #sensegarden 

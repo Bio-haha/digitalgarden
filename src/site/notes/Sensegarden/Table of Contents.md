@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/table-of-contents/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/table-of-contents/","dg-note-properties":{}}
 ---
 
 #sensegarden 

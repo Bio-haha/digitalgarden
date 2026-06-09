@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/hosting-options/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/hosting-options/","dg-note-properties":{}}
 ---
 
 #sensegarden 

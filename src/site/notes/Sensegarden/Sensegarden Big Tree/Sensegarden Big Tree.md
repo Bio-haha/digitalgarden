@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/sensegarden-big-tree/sensegarden-big-tree/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/sensegarden-big-tree/sensegarden-big-tree/","dg-note-properties":{}}
 ---
 
 #sensegarden 

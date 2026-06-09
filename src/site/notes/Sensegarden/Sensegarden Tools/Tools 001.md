@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/sensegarden-tools/tools-001/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/sensegarden-tools/tools-001/","dg-note-properties":{}}
 ---
 
 #sensegarden 

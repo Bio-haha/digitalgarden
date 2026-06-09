@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/privacy-and-control/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/privacy-and-control/","dg-note-properties":{}}
 ---
 
 #sensegarden 

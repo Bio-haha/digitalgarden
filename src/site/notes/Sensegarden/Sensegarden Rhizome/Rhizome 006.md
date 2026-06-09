@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/sensegarden-rhizome/rhizome-006/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/sensegarden-rhizome/rhizome-006/","dg-note-properties":{}}
 ---
 
 #sensegarden 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/mermaid-diagrams/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/mermaid-diagrams/","dg-note-properties":{}}
 ---
 
 #sensegarden 

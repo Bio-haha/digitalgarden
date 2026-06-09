@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/obsidian-themes/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/obsidian-themes/","dg-note-properties":{}}
 ---
 
 #sensegarden 

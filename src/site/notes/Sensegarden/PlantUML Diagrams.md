@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sensegarden/plant-uml-diagrams/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/sensegarden/plant-uml-diagrams/","dg-note-properties":{}}
 ---
 
 #sensegarden 
